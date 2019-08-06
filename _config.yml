@@ -8,7 +8,7 @@
 # Site settings
 title: "靳高锋的技术专栏"
 brief-intro: "System Research"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://xjgf713.github.io/jingf.github.io" # the subpath of your site, e.g. /blog
 url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
