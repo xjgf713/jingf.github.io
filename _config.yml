@@ -78,3 +78,4 @@ excerpt_separator: "\n\n\n\n"
 port: 4001
 
 #theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
