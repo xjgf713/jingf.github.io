@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "姚信的技术专栏"
+title: "靳高锋的技术专栏"
 brief-intro: "System Research"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
@@ -17,13 +17,13 @@ permalink: /:year/:month/:day/:title/
 twitter_username: #gaohaoyang126
 facebook_username: #gaohaoyang.water
 github_username:  XinYao1994
-email: u3004330@connect.hku.hk
+email: xjgf713@163.com
 weibo_username: 
 zhihu_username: 
 linkedIn_username: xinyao1994
 dribbble_username:
 
-description_footer: 来自姚信的个人专栏！
+description_footer: 来自靳高锋的个人专栏！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -73,8 +73,8 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-plugins: [jekyll-paginate]
-paginate: 6
+#plugins: [jekyll-paginate]
+#paginate: 6
 port: 4001
 
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
