@@ -8,8 +8,8 @@
 # Site settings
 title: "靳高锋的技术专栏"
 brief-intro: "System Research"
-baseurl: "https://xjgf713.github.io/jingf.github.io" # the subpath of your site, e.g. /blog
-url: "https://XinYao1994.github.io" # the base hostname & protocol for your site
+baseurl: "/jingf.github.io" # the subpath of your site, e.g. /blog
+url: "https://xjgf713.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -78,4 +78,4 @@ excerpt_separator: "\n\n\n\n"
 port: 4001
 
 #theme: jekyll-theme-slate
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
